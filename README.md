@@ -1,4 +1,4 @@
-utomated Monitoring & Remediation Workflow
+Automated Monitoring & Remediation Workflow
 This project demonstrates a production-inspired monitoring and automation solution based on real-world cloud engineering practices.
 
 The solution detects API performance degradation using log-based monitoring, triggers automated remediation via AWS Lambda, and provisions infrastructure using Terraform for repeatability and compliance.
